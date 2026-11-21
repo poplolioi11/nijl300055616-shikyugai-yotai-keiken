@@ -1,0 +1,758 @@
+{
+  "metadata": {
+    "title": "子宮外孕胎經驗",
+    "roman_title": "Shikyūgai yōtai keiken",
+    "author": "高橋一貫桃源，三宅春齡序",
+    "date": "安政丁巳（1857）序與篇末署記，抄寫年代未詳。",
+    "location": "千葉",
+    "repository": "千葉大學附屬圖書館亥鼻分館",
+    "collection": "古醫書收藏",
+    "shelfmark": "86694",
+    "language": "lzh",
+    "catalogue": "https://doi.org/10.20730/300055616",
+    "rights": "https://alc.chiba-u.jp/c-arc/#pl-policy",
+    "description": "《子宮外孕胎經驗》是高橋一貫（桃源）於安政丁巳年（1857）署記的晚江戶漢文病例，敘述佐伯郡一名婦人的長期病程、各醫者診察、家屬意見與照護經過。前附三宅春齡同年撰寫的漢文序。底本為千葉大學附屬圖書館亥鼻分館86694。",
+    "txt_reader_statement": "第1幅為館方攝影識別卡，第2幅封題。第3幅右為寄贈附札，第3幅左至第4幅右為漢文序。第4幅左至第6幅左為高橋一貫桃源病例。第7幅只記另篇附錄的篇界。右半葉先、左半葉後，各面自右向左逐欄。方框 □ 表示待定字，正筆、印記、刪記及可辨日文訓點另層。",
+    "tei_editorial_statement": "第1幅攝影卡與第2幅外封分層保存。第3幅右僅館藏寄贈附札。第3幅左至第4幅右為三宅春齡序。第4幅左至第6幅左為高橋一貫桃源病例。第7幅標記後件和文附錄的篇界。手寫字形、片假名訓注、刪筆與館藏印記分層。序文訓點選錄可確定位置者，其餘可循原圖續校。",
+    "manifest_url": "https://kokusho.nijl.ac.jp/biblio/300055616/manifest",
+    "manifest_sha256": "8e7192905dbd391c1eb1b049dd7285894c02f68dd5083647d224bd7ab687a36e",
+    "record_id": "NIJL300055616",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "catalogue_canvas_count": 14,
+    "related_part_boundary": {
+      "image": 7,
+      "side": "right",
+      "title": "宮外妊娠經驗附録",
+      "author": "三宅春齡八千氏",
+      "language": "ja"
+    },
+    "version": "0.1.0",
+    "dataset_title": "子宮外孕胎經驗（1857 年署記，千葉大學 86694） / Shikyūgai yōtai keiken [Case record of an extrauterine pregnancy]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/0",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/300055616/v4/CBUL/CBUL-11230/CBUL-11230-00000.tif/full/!2300,2300/0/default.jpg",
+      "label": "1",
+      "file": "01.jpg",
+      "sha256": "460d2fda68be642aff80872a956b373ec29f43d62d61a34c45c89e3a65647868",
+      "bytes": 175634,
+      "native_width": 3307,
+      "native_height": 4678,
+      "content_role": "institutional-digitization-target",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "digitization-target",
+              "location": "國文研現代攝影識別卡",
+              "text": "CBUL-11230\n宮外妊孕経験説并附録\n千葉大学附属図書館亥鼻分館\n86694\n国文学研究資料館\n令和4年度",
+              "color": "black",
+              "language": "ja"
+            }
+          ]
+        }
+      ],
+      "observations": "館方現代影像識別卡，記底本與攝影批次。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/1",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/300055616/v4/CBUL/CBUL-11230/CBUL-11230-00001.tif/full/!2300,2300/0/default.jpg",
+      "label": "2",
+      "file": "02.jpg",
+      "sha256": "1d7aa9b1e2b3d79831d519a80ae56896449063976f4024fada1ffe5f7b06bef4",
+      "bytes": 526177,
+      "native_width": 6592,
+      "native_height": 4672,
+      "content_role": "titled-cover",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "cover-title",
+              "location": "封面偏左墨筆直書",
+              "text": "宮外妊孕經驗説并附録",
+              "color": "black",
+              "language": "ja"
+            },
+            {
+              "type": "accession-number",
+              "location": "正封印上登錄號",
+              "text": "86694",
+              "color": "black"
+            },
+            {
+              "type": "seal",
+              "location": "正封墨印",
+              "text": "東洋醫學研究室",
+              "color": "black"
+            }
+          ]
+        }
+      ],
+      "observations": "外封是整裝題名，與第4幅左面漢文篇的內題用字有別。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/300055616/v4/CBUL/CBUL-11230/CBUL-11230-00002.tif/full/!2300,2300/0/default.jpg",
+      "label": "3",
+      "file": "03.jpg",
+      "sha256": "69e8479748ddb69e778354cc184329cd197dcca573d8715c5c776973ddbe7854",
+      "bytes": 593183,
+      "native_width": 6592,
+      "native_height": 4672,
+      "content_role": "front-attachment-and-chinese-preface",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "donation-mark",
+              "location": "右面中偏右淡墨長方框",
+              "text": "昭和□□年三月廿□日\n□□□\n寄贈",
+              "color": "black"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "疾醫之道要在濟生而已矣豈有漢洋之別乎盖西洋",
+              "marks": [
+                {
+                  "after": 4,
+                  "mark": "、",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 11,
+                  "mark": "、",
+                  "color": "black"
+                },
+                {
+                  "after": 13,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 17,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 18,
+                  "mark": "、",
+                  "color": "black"
+                }
+              ],
+              "notes": [
+                {
+                  "after": 8,
+                  "lines": [
+                    "ニ"
+                  ]
+                },
+                {
+                  "after": 13,
+                  "lines": [
+                    "ヤ"
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "之長於究理精緻細察其説如竒怪然徴之於實際雖"
+            },
+            {
+              "text": "漢人亦不得而拒也近有宮内一婦宮外妊孕醫以為"
+            },
+            {
+              "text": "血塊又以為鼓脹自非桃源之卓識安能破開其腹因"
+            },
+            {
+              "text": "而挾出毛骨以免非命之慘乎曩年府下土屋氏妻妊"
+            },
+            {
+              "text": "孕三年腹出毛骨惠美大笑翁實往診視為文取中州"
+            },
+            {
+              "text": "津有此證其孫玄仙亦往診今也玄仙子養健亦往診"
+            },
+            {
+              "text": "之嗚呼惠美氏以主張仲景聞於天下而其所為如此"
+            },
+            {
+              "text": "盖累世子孫之篤於濟生可謂善繼祖業已若夫臆斷"
+            },
+            {
+              "text": "強辯不徴實際以負疾醫之職者非啻不為仲景之忠"
+            },
+            {
+              "text": "臣而亦惠美氏之罪人也桃源著經驗説予作附録又"
+            }
+          ],
+          "extras": [
+            {
+              "type": "seal",
+              "location": "序面靠近中縫上方朱印",
+              "text": "〔印文待釋〕",
+              "color": "red"
+            },
+            {
+              "type": "deletion",
+              "location": "序面由右第四欄欄末疊改",
+              "text": "腹後的因形字可見交叉劃覆。",
+              "color": "black"
+            },
+            {
+              "type": "reading-marks-coverage",
+              "location": "左面序文原筆訓點區",
+              "text": "序文字旁滿有訓點與細小片假名。本次選錄可明確定位者，同連原圖供續校。",
+              "color": "black",
+              "figure_zone": "f03-retention-marks"
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": null,
+          "context": "寄贈記",
+          "candidates": [
+            "昭和十九年三月廿一日"
+          ],
+          "note": "年月日淡墨，完整日期及寄贈者名字留待精讀。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "其腹因",
+          "candidates": [
+            "因",
+            "削除字"
+          ],
+          "note": "欄末方形墨字疊寫交叉，暫按可見原位列，與刪除痕跡分層。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "中州",
+          "candidates": [
+            "中州",
+            "中洲"
+          ],
+          "note": "末字疑州；下一欄首「津」。"
+        }
+      ],
+      "observations": "左首為漢文序，欄側密集寫有細小送り仮名、短合符和返點。第4幅右面是序末。",
+      "facsimile_regions": [
+        {
+          "id": "f03-retention-marks",
+          "type": "paratext-mark-zone",
+          "bbox": [
+            851,
+            654,
+            3184,
+            3812
+          ]
+        }
+      ]
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/3",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/300055616/v4/CBUL/CBUL-11230/CBUL-11230-00003.tif/full/!2300,2300/0/default.jpg",
+      "label": "4",
+      "file": "04.jpg",
+      "sha256": "a77e7cde2248661aefb67c45acf019cefa94b3e0c8f2143c4ff9b88c86a0dd77",
+      "bytes": 545661,
+      "native_width": 6592,
+      "native_height": 4672,
+      "content_role": "preface-date-and-case-title",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "題數言為之序云安政丁巳十月望三宅春齡撰",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ],
+              "notes": [
+                {
+                  "after": 3,
+                  "lines": [
+                    "ヲ"
+                  ]
+                },
+                {
+                  "after": 6,
+                  "lines": [
+                    "ト"
+                  ]
+                }
+              ]
+            }
+          ],
+          "extras": [
+            {
+              "type": "seal",
+              "location": "右半葉大朱方印",
+              "text": "千葉大學圖書館",
+              "color": "red"
+            },
+            {
+              "type": "accession-number",
+              "location": "朱章下",
+              "text": "86694",
+              "color": "blue"
+            },
+            {
+              "type": "seal",
+              "location": "序末旁上方小朱印",
+              "text": "〔印文待釋〕",
+              "color": "red"
+            },
+            {
+              "type": "seal",
+              "location": "序末旁下方朱框印",
+              "text": "〔印文待釋〕",
+              "color": "red"
+            },
+            {
+              "type": "reading-marks-coverage",
+              "location": "右面序末上段訓點區",
+              "text": "可定位的返點及部分片假名分錄，與序文正文分開。",
+              "color": "black",
+              "figure_zone": "f04-preface-end"
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "子宮外孕胎經驗"
+            },
+            {
+              "text": "佐伯郡宮内村黨正治右衛門妻年齒四十三矣昨春日"
+            },
+            {
+              "text": "罹嬰非常之疾今秋來寓于其弟廣陵東魚屋町若松屋"
+            },
+            {
+              "text": "清兵衛宅請治一醫某服藥十餘日無効八月十四日請"
+            },
+            {
+              "text": "余々診之口舌生□口瘡時々呃噦臭氣如敗卵脉沈而"
+            },
+            {
+              "text": "微身體痩羸骨角刺手全腹彭脹前部突出坐則殆冒膝"
+            },
+            {
+              "text": "頭左右脇下反如削其状異于尋常腹滿症且臍上二寸"
+            },
+            {
+              "text": "許皮肉稍隆起中央柔軟周圍硬結為輪其色如常按之"
+            },
+            {
+              "text": "微痛如有膿瘍焉余乃審問其平素與其疾患之次序親"
+            },
+            {
+              "text": "族曰天資健康曾産四男三女昨年正月中旬經血如常"
+            },
+            {
+              "text": "其後爾來二月三月無事四月初旬發心下苦煩惡心等"
+            },
+            {
+              "text": "之症自以為妊娠惡阻而不藥同月二十六日俄然腹肚"
+            }
+          ],
+          "extras": [
+            {
+              "type": "seal",
+              "location": "病例開篇上方墨印",
+              "text": "東洋醫學研究室",
+              "color": "black"
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "昨春日",
+          "candidates": [
+            "日",
+            "曰"
+          ],
+          "note": "左末單字形近，後接第3欄罹嬰。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "罹嬰",
+          "candidates": [
+            "罹",
+            "罹形異體"
+          ],
+          "note": "首字有糸狀左筆，字形描畫可再核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "口舌生□口瘡",
+          "candidates": [
+            "黴",
+            "苔"
+          ],
+          "note": "生與口間字墨筆較繁，保留位置。"
+        },
+        {
+          "side": "left",
+          "column": 12,
+          "context": "俄然腹肚",
+          "candidates": [
+            "肚",
+            "肛"
+          ],
+          "note": "欄末字未完全清晰，待回圖。"
+        }
+      ],
+      "observations": "右是三宅春齡序末及署年，左有新的獨立內題和病例，正文筆勢清簡，兩種文字層分開。",
+      "facsimile_regions": [
+        {
+          "id": "f04-preface-end",
+          "type": "paratext-mark-zone",
+          "bbox": [
+            5302,
+            937,
+            5698,
+            1918
+          ]
+        }
+      ]
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/300055616/v4/CBUL/CBUL-11230/CBUL-11230-00004.tif/full/!2300,2300/0/default.jpg",
+      "label": "5",
+      "file": "05.jpg",
+      "sha256": "a57d0973c132a42bf2977d1b975f3ec3f1a824fb19a9833d4bbc0ae4997ac45c",
+      "bytes": 573893,
+      "native_width": 6592,
+      "native_height": 4672,
+      "content_role": "chinese-case-body",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "拘痛苦楚難堪呼吸短速殆欲衝心急請治村醫某百藥"
+            },
+            {
+              "text": "無効痛苦或緩或急荏苒經日腹漸彭脹六月中旬衆醫"
+            },
+            {
+              "text": "相議投峻下劑一夜暴瀉六七行苦楚減大半然腹脹如"
+            },
+            {
+              "text": "故自覺小腹微動衆醫一決称妊漸々痛苦相減八月九"
+            },
+            {
+              "text": "月稍務家事則辭醫某十月初旬胎子劇動衝逆胸脇痛"
+            },
+            {
+              "text": "苦難堪飲食乍退嘔吐屢發又請治前醫十一月諸症或"
+            },
+            {
+              "text": "緩或急十二月中旬又大劇發同二十日胎動頓止苦楚"
+            },
+            {
+              "text": "稍緩呃逆亦止飲食漸進然全腹倍彭脹矣是以前醫謂"
+            },
+            {
+              "text": "是非妊鼓脹病也遂雖療之諸症依然閏年二月中旬小"
+            },
+            {
+              "text": "腹拘痛産門脱出血塊二枚其大如毬尚漏稀血數日而"
+            },
+            {
+              "text": "収又五月下旬脱出塊血稀血如前閏五月中旬發心下"
+            },
+            {
+              "text": "急痛呃逆苦悶等之症四五日而自緩解然隔年月或一"
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "月而發作遂無窮腹脹倍甚飲食漸減衰弱日加百計"
+            },
+            {
+              "text": "無効於是今月五日相携詣于此地請治一醫某々亦"
+            },
+            {
+              "text": "称鼓脹療之溏瀉如傾同十二日心下急痛煩悶難堪彭"
+            },
+            {
+              "text": "吐膽汁食慾忽退衰弱至于今日云云及茲余更開眼目"
+            },
+            {
+              "text": "再診其腹状盡心力而熟察始終之景况矣沈黙數刻豁然"
+            },
+            {
+              "text": "似貫通為斷謂是非鼓脹西説所謂子宮外孕胎也前年"
+            },
+            {
+              "text": "臘月胎子既死腐穢侵蝕腹膜臍上隆起之部應為膿管"
+            },
+            {
+              "text": "是以乃詳告親族親族或疑之更使後藤松軒診之松軒"
+            },
+            {
+              "text": "慨然曰妙哉余克知此症默識多年未嘗看斯人而今日"
+            },
+            {
+              "text": "親觀之宿考與事實如今符節豈足狐疑乎親族始信余"
+            },
+            {
+              "text": "言相議請治余雖固辭而曰從前年臘月至今日諸醫以"
+            },
+            {
+              "text": "鼓脹療之衰弱愈極且腐敗弥蔓于母體之血中命期在"
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 5,
+          "context": "胸脇痛",
+          "candidates": [
+            "脇",
+            "脯"
+          ],
+          "note": "待查月字右旁。"
+        },
+        {
+          "side": "right",
+          "column": 11,
+          "context": "収",
+          "candidates": [
+            "収",
+            "收"
+          ],
+          "note": "書手的收字左旁筆形短，按原墨暫作収。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "溏瀉",
+          "candidates": [
+            "溏",
+            "濘"
+          ],
+          "note": "潮墨略深，保候讀。"
+        },
+        {
+          "side": "left",
+          "column": 9,
+          "context": "慨然曰妙哉",
+          "candidates": [
+            "妙",
+            "奶形"
+          ],
+          "note": "楷行混合，第四字候妙。"
+        }
+      ],
+      "observations": "兩面分別12欄。正文多有淡墨透背，與本面的確定文字區分。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/300055616/v4/CBUL/CBUL-11230/CBUL-11230-00005.tif/full/!2300,2300/0/default.jpg",
+      "label": "6",
+      "file": "06.jpg",
+      "sha256": "4cf4732a5190202e750d1a3b0e56a6abd5ddb75900b44a42161d63728633b2a5",
+      "bytes": 539392,
+      "native_width": 6592,
+      "native_height": 4672,
+      "content_role": "chinese-case-conclusion",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "近雖施其治安奏其功乎親族曰久雖療之未得其方一"
+            },
+            {
+              "text": "得其方療之則明日死可也冀君加仁慈為懇請不止余"
+            },
+            {
+              "text": "不忍辭之則十八日夜投保固強壮滋補之劑貼造膿膏"
+            },
+            {
+              "text": "于臍上隆起之部翌日診之臍上大隆起且焮赤呃逆自"
+            },
+            {
+              "text": "止終得啜稀粥更與松軒相議急作鷄肉羮汁與之又自"
+            },
+            {
+              "text": "請喫上好酒幸而則令吞之二十日飲食稍増腫處倍焮"
+            },
+            {
+              "text": "痛二十一日夜腫處自破潰漏敗膿五六合臭氣穿鼻不"
+            },
+            {
+              "text": "可近膿中雜出胎髪即以硬膏覆瘡口施縛帯終夜膿汁"
+            },
+            {
+              "text": "流滴蓐衣如投水中翌二十二日診之瘡口濶大漏膿汁"
+            },
+            {
+              "text": "胎髪如前腹部柔軟得著診胎兒敗膿愈流出瘡口益濶"
+            },
+            {
+              "text": "大而挾指頭于瘡口探得兒頭於是二十四日使外科西"
+            },
+            {
+              "text": "道夀診之道夀利刀剥脱瘡口之腐肉二十五日道夀同"
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "男道一從瘡口出胎兒頭盖骨二片其翌二十六日大出"
+            },
+            {
+              "text": "一片逐次雖欲出全骨疲勞殊甚不能果外術二十七日"
+            },
+            {
+              "text": "終上鬼簿矣其胎髪頭盖骨余家藏焉"
+            },
+            {
+              "text": "安政丁巳暮秋高橋一貫桃源誌之"
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "命期在近",
+          "candidates": [
+            "近",
+            "迄"
+          ],
+          "note": "形右上有斜筆，尋義不作定讀依據。"
+        },
+        {
+          "side": "right",
+          "column": 8,
+          "context": "縛帯",
+          "candidates": [
+            "帯",
+            "帶"
+          ],
+          "note": "目前先保留可見日式形。"
+        },
+        {
+          "side": "right",
+          "column": 12,
+          "context": "道夀",
+          "candidates": [
+            "夀",
+            "壽"
+          ],
+          "note": "原字中間多層交筆，仍依同欄各處同形。"
+        }
+      ],
+      "observations": "全篇止於左面高橋一貫桃源1857年署記，署記左側透背的字不屬本面；第7幅右另有和文新題。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/6",
+      "image_url": "https://kokusho.nijl.ac.jp/api/iiif/300055616/v4/CBUL/CBUL-11230/CBUL-11230-00006.tif/full/!2300,2300/0/default.jpg",
+      "label": "7",
+      "file": "07.jpg",
+      "sha256": "3200cd9525c895d9d03b8622e095cab84c6ad7a82f2a41ece99b8ea0d65f5ada",
+      "bytes": 531627,
+      "native_width": 6592,
+      "native_height": 4672,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    }
+  ]
+}

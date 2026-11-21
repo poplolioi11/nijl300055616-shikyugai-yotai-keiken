@@ -1,0 +1,62 @@
+{
+  "historical_author": "高橋一貫桃源（病例記述），三宅春齡（漢文序）",
+  "source_identity": "千葉大學附屬圖書館亥鼻分館 86694，國文研數位資料 300055616（DIG-CBUL-11230）",
+  "source": "https://doi.org/10.20730/300055616",
+  "iiif_manifest": "https://kokusho.nijl.ac.jp/biblio/300055616/manifest",
+  "source_rights_policy": "https://alc.chiba-u.jp/c-arc/#pl-policy",
+  "dataset_version": "0.1.0",
+  "scan_count": 7,
+  "content_scan_count": 4,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/0",
+      "label": "1",
+      "sha256": "460d2fda68be642aff80872a956b373ec29f43d62d61a34c45c89e3a65647868",
+      "content_role": "institutional-digitization-target"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/1",
+      "label": "2",
+      "sha256": "1d7aa9b1e2b3d79831d519a80ae56896449063976f4024fada1ffe5f7b06bef4",
+      "content_role": "titled-cover"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2",
+      "label": "3",
+      "sha256": "69e8479748ddb69e778354cc184329cd197dcca573d8715c5c776973ddbe7854",
+      "content_role": "front-attachment-and-chinese-preface"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/3",
+      "label": "4",
+      "sha256": "a77e7cde2248661aefb67c45acf019cefa94b3e0c8f2143c4ff9b88c86a0dd77",
+      "content_role": "preface-date-and-case-title"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "label": "5",
+      "sha256": "a57d0973c132a42bf2977d1b975f3ec3f1a824fb19a9833d4bbc0ae4997ac45c",
+      "content_role": "chinese-case-body"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "label": "6",
+      "sha256": "4cf4732a5190202e750d1a3b0e56a6abd5ddb75900b44a42161d63728633b2a5",
+      "content_role": "chinese-case-conclusion"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/6",
+      "label": "7",
+      "sha256": "3200cd9525c895d9d03b8622e095cab84c6ad7a82f2a41ece99b8ea0d65f5ada",
+      "content_role": "out-of-scope-attached-works"
+    }
+  ]
+}
