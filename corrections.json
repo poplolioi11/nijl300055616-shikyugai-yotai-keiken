@@ -1,0 +1,352 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 4,
+  "changes": [
+    {
+      "image": 3,
+      "side": "right",
+      "column": null,
+      "kind": "collection-mark",
+      "op": "read-date-and-name-fragment",
+      "before": "昭和□□年三月廿□日\n□□□\n寄贈",
+      "after": "昭和□□年三月三十一日\n三宅□□\n寄贈",
+      "reason": "長框右欄三月三十一日較清，左欄首二字三宅、末寄贈；年及名餘筆待釋。",
+      "source_bbox": [
+        3780,
+        570,
+        4093,
+        1496
+      ],
+      "source_image_sha256": "69e8479748ddb69e778354cc184329cd197dcca573d8715c5c776973ddbe7854",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 4,
+      "kind": "main",
+      "op": "separate-deletion",
+      "before": "因",
+      "after": "",
+      "reason": "末尾是框內雙斜交叉的原筆刪記，已定位於獨立文字層。無可靠底字可指定為因。",
+      "source_bbox": [
+        2241,
+        3571,
+        2462,
+        3821
+      ],
+      "offset": [
+        20,
+        21
+      ],
+      "source_image_sha256": "69e8479748ddb69e778354cc184329cd197dcca573d8715c5c776973ddbe7854",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "□",
+      "after": "鵞",
+      "reason": "放大可辨上我下鳥，採原筆「鵞」。",
+      "source_bbox": [
+        2267,
+        1869,
+        2476,
+        2121
+      ],
+      "offset": [
+        7,
+        8
+      ],
+      "source_image_sha256": "a77e7cde2248661aefb67c45acf019cefa94b3e0c8f2143c4ff9b88c86a0dd77",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/3"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 10,
+      "kind": "main",
+      "op": "replace",
+      "before": "毬",
+      "after": "□",
+      "reason": "尺寸比喻字仍有球、毬、秩三讀，左部未可確定，留疑。",
+      "source_bbox": [
+        3692,
+        3012,
+        3892,
+        3282
+      ],
+      "offset": [
+        14,
+        15
+      ],
+      "source_image_sha256": "a57d0973c132a42bf2977d1b975f3ec3f1a824fb19a9833d4bbc0ae4997ac45c",
+      "canvas": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 3,
+      "side": "right",
+      "column": null,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2",
+      "status": "原圖待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2",
+      "status": "原圖待核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2",
+      "status": "原圖待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/3",
+      "status": "原圖待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/3",
+      "status": "原圖待核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 12,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/3",
+      "status": "原圖待核"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 5,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "status": "原圖待核"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 11,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "status": "原圖待核"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "status": "原圖待核"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 9,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "status": "原圖待核"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 10,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "status": "原圖待核"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 1,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "status": "原圖待核"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 8,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "status": "原圖待核"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 12,
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "status": "原圖待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 3,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "69e8479748ddb69e778354cc184329cd197dcca573d8715c5c776973ddbe7854",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2",
+      "source_bbox": [
+        2107,
+        2388,
+        2290,
+        2760
+      ],
+      "reading": "曩年",
+      "reason": "上為日，下面筆畫合寫，保留長筆曩形。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 9,
+      "source_image_sha256": "69e8479748ddb69e778354cc184329cd197dcca573d8715c5c776973ddbe7854",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/2",
+      "source_bbox": [
+        1316,
+        714,
+        1482,
+        897
+      ],
+      "reading": "盖",
+      "reason": "上有類羊而下為皿。與頁06左的頭盖骨兩個盖同形。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 2,
+      "source_image_sha256": "a77e7cde2248661aefb67c45acf019cefa94b3e0c8f2143c4ff9b88c86a0dd77",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/3",
+      "source_bbox": [
+        2857,
+        1556,
+        3032,
+        2210
+      ],
+      "reading": "黨正治",
+      "reason": "黒旁黨下接正再接治；中間字橫豎可辨。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 2,
+      "source_image_sha256": "a57d0973c132a42bf2977d1b975f3ec3f1a824fb19a9833d4bbc0ae4997ac45c",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "source_bbox": [
+        5259,
+        2431,
+        5457,
+        2803
+      ],
+      "reading": "經日",
+      "reason": "經下小字內一橫為日，外框無月之左長撇。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 3,
+      "source_image_sha256": "a57d0973c132a42bf2977d1b975f3ec3f1a824fb19a9833d4bbc0ae4997ac45c",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "source_bbox": [
+        5033,
+        1399,
+        5245,
+        1938
+      ],
+      "reading": "峻下劑",
+      "reason": "山旁短筆可見，保留峻，未按上下文改劑名。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 10,
+      "source_image_sha256": "a57d0973c132a42bf2977d1b975f3ec3f1a824fb19a9833d4bbc0ae4997ac45c",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/4",
+      "source_bbox": [
+        1318,
+        1278,
+        1525,
+        1611
+      ],
+      "reading": "宿考",
+      "reason": "短屋頂下見亻、白組合。原稿作宿。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 2,
+      "source_image_sha256": "4cf4732a5190202e750d1a3b0e56a6abd5ddb75900b44a42161d63728633b2a5",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "source_bbox": [
+        5239,
+        2494,
+        5483,
+        2915
+      ],
+      "reading": "冀君",
+      "reason": "上部呈北狀短筆，下部有田與共；採冀。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 1,
+      "source_image_sha256": "4cf4732a5190202e750d1a3b0e56a6abd5ddb75900b44a42161d63728633b2a5",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "source_bbox": [
+        3047,
+        2256,
+        3250,
+        2789
+      ],
+      "reading": "頭盖骨",
+      "reason": "頭後一字上部短畫下皿。同半面第三欄同形。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "4cf4732a5190202e750d1a3b0e56a6abd5ddb75900b44a42161d63728633b2a5",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "source_bbox": [
+        2674,
+        2201,
+        2883,
+        2703
+      ],
+      "reading": "頭盖骨",
+      "reason": "對讀第一欄同形，兩處皆保留原寫盖。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 4,
+      "source_image_sha256": "4cf4732a5190202e750d1a3b0e56a6abd5ddb75900b44a42161d63728633b2a5",
+      "canvas_id": "https://kokusho.nijl.ac.jp/biblio/300055616/canvas/5",
+      "source_bbox": [
+        2508,
+        1238,
+        2714,
+        3348
+      ],
+      "reading": "安政丁巳暮秋高橋一貫桃源誌之",
+      "reason": "篇末獨署，原筆明印書寫者名號；與序作者相區分。",
+      "status": "依原圖留讀"
+    }
+  ]
+}

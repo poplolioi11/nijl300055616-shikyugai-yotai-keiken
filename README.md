@@ -4,11 +4,11 @@
 
 Shikyūgai yōtai keiken is an 1857 Literary Chinese case record signed by 高橋一貫桃源, with a Literary Chinese preface by 三宅春齡. The record follows a patient in Saeki District through a prolonged illness, consultations, decisions by the family, and the outcome of care. This transcription follows Chiba University Library's Inohana collection, shelfmark 86694, catalogued as Kyūgai ninyō keikensetsu narabi ni furoku.
 
-## V0.1.0
+## V0.2.0
 
-逐欄錄第3幅左至第6幅左的序、完整題名病例與兩篇署記，另記第1幅攝影指標、第2幅封題、第3幅寄贈附札及第7幅另附和文的篇界。AI輔助初錄與原圖逐幅定位，已知疑讀保留於相應欄位。
+逐欄錄第3幅左至第6幅左的序、完整題名病例與兩篇署記，另記第1幅攝影指標、第2幅封題、第3幅寄贈附札及第7幅另附和文的篇界。比對獨立原圖讀法後回圖裁定，採用 4 筆訂正，留存疑讀定位。
 
-Transcribes the Literary Chinese preface and complete separately titled case on scans 3–6, with the cover, imaging target, donation note, and the beginning of the separate Japanese appendix located as source features. AI-assisted initial transcription with image references and explicitly marked doubtful readings.
+Transcribes the Literary Chinese preface and complete separately titled case on scans 3–6, with the cover, imaging target, donation note, and the beginning of the separate Japanese appendix located as source features. An independent image reading was compared with the first transcription. Source-image adjudication adopted 4 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

@@ -17,7 +17,7 @@
     "manifest_url": "https://kokusho.nijl.ac.jp/biblio/300055616/manifest",
     "manifest_sha256": "8e7192905dbd391c1eb1b049dd7285894c02f68dd5083647d224bd7ab687a36e",
     "record_id": "NIJL300055616",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       3,
       4,
@@ -32,9 +32,9 @@
       "author": "三宅春齡八千氏",
       "language": "ja"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "子宮外孕胎經驗（1857 年署記，千葉大學 86694） / Shikyūgai yōtai keiken [Case record of an extrauterine pregnancy]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -52,7 +52,7 @@
       "native_width": 3307,
       "native_height": 4678,
       "content_role": "institutional-digitization-target",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "single",
@@ -81,7 +81,7 @@
       "native_width": 6592,
       "native_height": 4672,
       "content_role": "titled-cover",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "single",
@@ -122,7 +122,7 @@
       "native_width": 6592,
       "native_height": 4672,
       "content_role": "front-attachment-and-chinese-preface",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -131,7 +131,7 @@
             {
               "type": "donation-mark",
               "location": "右面中偏右淡墨長方框",
-              "text": "昭和□□年三月廿□日\n□□□\n寄贈",
+              "text": "昭和□□年三月三十一日\n三宅□□\n寄贈",
               "color": "black"
             }
           ]
@@ -200,7 +200,7 @@
               "text": "漢人亦不得而拒也近有宮内一婦宮外妊孕醫以為"
             },
             {
-              "text": "血塊又以為鼓脹自非桃源之卓識安能破開其腹因"
+              "text": "血塊又以為鼓脹自非桃源之卓識安能破開其腹"
             },
             {
               "text": "而挾出毛骨以免非命之慘乎曩年府下土屋氏妻妊"
@@ -234,8 +234,9 @@
             {
               "type": "deletion",
               "location": "序面由右第四欄欄末疊改",
-              "text": "腹後的因形字可見交叉劃覆。",
-              "color": "black"
+              "text": "「其腹」後見方框交叉刪記，保留原位不讀底字。",
+              "color": "black",
+              "column_anchor": 4
             },
             {
               "type": "reading-marks-coverage",
@@ -252,21 +253,19 @@
         {
           "side": "right",
           "column": null,
-          "context": "寄贈記",
+          "context": "昭和□□年三月三十一日／三宅□□寄贈",
           "candidates": [
-            "昭和十九年三月廿一日"
+            "昭和三十二年",
+            "三宅しづ"
           ],
-          "note": "年月日淡墨，完整日期及寄贈者名字留待精讀。"
+          "note": "只定月日及姓，年、兩個假名字元尚待更好影像。"
         },
         {
           "side": "left",
           "column": 4,
-          "context": "其腹因",
-          "candidates": [
-            "因",
-            "削除字"
-          ],
-          "note": "欄末方形墨字疊寫交叉，暫按可見原位列，與刪除痕跡分層。"
+          "context": "其腹後交叉刪記",
+          "candidates": [],
+          "note": "底字尚未能在相互交覆的墨畫中辨出。"
         },
         {
           "side": "left",
@@ -304,7 +303,7 @@
       "native_width": 6592,
       "native_height": 4672,
       "content_role": "preface-date-and-case-title",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -400,7 +399,7 @@
               "text": "清兵衛宅請治一醫某服藥十餘日無効八月十四日請"
             },
             {
-              "text": "余々診之口舌生□口瘡時々呃噦臭氣如敗卵脉沈而"
+              "text": "余々診之口舌生鵞口瘡時々呃噦臭氣如敗卵脉沈而"
             },
             {
               "text": "微身體痩羸骨角刺手全腹彭脹前部突出坐則殆冒膝"
@@ -458,16 +457,6 @@
         },
         {
           "side": "left",
-          "column": 5,
-          "context": "口舌生□口瘡",
-          "candidates": [
-            "黴",
-            "苔"
-          ],
-          "note": "生與口間字墨筆較繁，保留位置。"
-        },
-        {
-          "side": "left",
           "column": 12,
           "context": "俄然腹肚",
           "candidates": [
@@ -502,7 +491,7 @@
       "native_width": 6592,
       "native_height": 4672,
       "content_role": "chinese-case-body",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -535,7 +524,7 @@
               "text": "是非妊鼓脹病也遂雖療之諸症依然閏年二月中旬小"
             },
             {
-              "text": "腹拘痛産門脱出血塊二枚其大如毬尚漏稀血數日而"
+              "text": "腹拘痛産門脱出血塊二枚其大如□尚漏稀血數日而"
             },
             {
               "text": "収又五月下旬脱出塊血稀血如前閏五月中旬發心下"
@@ -629,6 +618,17 @@
             "奶形"
           ],
           "note": "楷行混合，第四字候妙。"
+        },
+        {
+          "side": "right",
+          "column": 10,
+          "context": "其大如□",
+          "candidates": [
+            "球",
+            "毬",
+            "秩"
+          ],
+          "note": "右半有分枝交筆，左部讀法仍待原圖判定。"
         }
       ],
       "observations": "兩面分別12欄。正文多有淡墨透背，與本面的確定文字區分。"
@@ -644,7 +644,7 @@
       "native_width": 6592,
       "native_height": 4672,
       "content_role": "chinese-case-conclusion",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",

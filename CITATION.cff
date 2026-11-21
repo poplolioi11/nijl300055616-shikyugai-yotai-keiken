@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '子宮外孕胎經驗（1857 年署記，千葉大學 86694） / Shikyūgai yōtai keiken [Case record of an extrauterine
   pregnancy]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

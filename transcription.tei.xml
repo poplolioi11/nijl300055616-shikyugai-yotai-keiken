@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -119,8 +119,8 @@
           <div type="page-face" n="right">
             <ab type="page-feature" subtype="donation-mark">
               <label>右面中偏右淡墨長方框</label>
-              <seg type="diplomatic-text" rend="black">昭和□□年三月廿□日
-□□□
+              <seg type="diplomatic-text" rend="black">昭和□□年三月三十一日
+三宅□□
 寄贈</seg>
             </ab>
           </div>
@@ -152,7 +152,7 @@
               <seg type="diplomatic-text">漢人亦不得而拒也近有宮内一婦宮外妊孕醫以為</seg>
             </ab>
             <ab type="column" n="4" xml:id="f03-l-c04">
-              <seg type="diplomatic-text">血塊又以為鼓脹自非桃源之卓識安能破開其腹因</seg>
+              <seg type="diplomatic-text">血塊又以為鼓脹自非桃源之卓識安能破開其腹</seg>
             </ab>
             <ab type="column" n="5" xml:id="f03-l-c05">
               <seg type="diplomatic-text">而挾出毛骨以免非命之慘乎曩年府下土屋氏妻妊</seg>
@@ -179,9 +179,9 @@
               <label>序面靠近中縫上方朱印</label>
               <seg type="diplomatic-text" rend="red">〔印文待釋〕</seg>
             </ab>
-            <ab type="page-feature" subtype="deletion">
+            <ab type="page-feature" subtype="deletion" corresp="#f03-l-c04">
               <label>序面由右第四欄欄末疊改</label>
-              <seg type="diplomatic-text" rend="black">腹後的因形字可見交叉劃覆。</seg>
+              <seg type="diplomatic-text" rend="black">「其腹」後見方框交叉刪記，保留原位不讀底字。</seg>
             </ab>
             <ab type="page-feature" subtype="reading-marks-coverage" facs="#f03-retention-marks">
               <label>左面序文原筆訓點區</label>
@@ -191,15 +191,14 @@
           <div type="editorial-observations">
             <ab type="layout">左首為漢文序，欄側密集寫有細小送り仮名、短合符和返點。第4幅右面是序末。</ab>
             <ab type="transcription-issue" n="right:None">
-              <quote>寄贈記</quote>
-              <seg type="candidate">昭和十九年三月廿一日</seg>
-              <note type="editorial">年月日淡墨，完整日期及寄贈者名字留待精讀。</note>
+              <quote>昭和□□年三月三十一日／三宅□□寄贈</quote>
+              <seg type="candidate">昭和三十二年</seg>
+              <seg type="candidate">三宅しづ</seg>
+              <note type="editorial">只定月日及姓，年、兩個假名字元尚待更好影像。</note>
             </ab>
             <ab type="transcription-issue" n="left:4">
-              <quote>其腹因</quote>
-              <seg type="candidate">因</seg>
-              <seg type="candidate">削除字</seg>
-              <note type="editorial">欄末方形墨字疊寫交叉，暫按可見原位列，與刪除痕跡分層。</note>
+              <quote>其腹後交叉刪記</quote>
+              <note type="editorial">底字尚未能在相互交覆的墨畫中辨出。</note>
             </ab>
             <ab type="transcription-issue" n="left:6">
               <quote>中州</quote>
@@ -264,7 +263,7 @@
               <seg type="diplomatic-text">清兵衛宅請治一醫某服藥十餘日無効八月十四日請</seg>
             </ab>
             <ab type="column" n="5" xml:id="f04-l-c05">
-              <seg type="diplomatic-text">余々診之口舌生□口瘡時々呃噦臭氣如敗卵脉沈而</seg>
+              <seg type="diplomatic-text">余々診之口舌生鵞口瘡時々呃噦臭氣如敗卵脉沈而</seg>
             </ab>
             <ab type="column" n="6" xml:id="f04-l-c06">
               <seg type="diplomatic-text">微身體痩羸骨角刺手全腹彭脹前部突出坐則殆冒膝</seg>
@@ -306,12 +305,6 @@
               <seg type="candidate">罹形異體</seg>
               <note type="editorial">首字有糸狀左筆，字形描畫可再核。</note>
             </ab>
-            <ab type="transcription-issue" n="left:5">
-              <quote>口舌生□口瘡</quote>
-              <seg type="candidate">黴</seg>
-              <seg type="candidate">苔</seg>
-              <note type="editorial">生與口間字墨筆較繁，保留位置。</note>
-            </ab>
             <ab type="transcription-issue" n="left:12">
               <quote>俄然腹肚</quote>
               <seg type="candidate">肚</seg>
@@ -351,7 +344,7 @@
               <seg type="diplomatic-text">是非妊鼓脹病也遂雖療之諸症依然閏年二月中旬小</seg>
             </ab>
             <ab type="column" n="10" xml:id="f05-r-c10">
-              <seg type="diplomatic-text">腹拘痛産門脱出血塊二枚其大如毬尚漏稀血數日而</seg>
+              <seg type="diplomatic-text">腹拘痛産門脱出血塊二枚其大如□尚漏稀血數日而</seg>
             </ab>
             <ab type="column" n="11" xml:id="f05-r-c11">
               <seg type="diplomatic-text">収又五月下旬脱出塊血稀血如前閏五月中旬發心下</seg>
@@ -423,6 +416,13 @@
               <seg type="candidate">妙</seg>
               <seg type="candidate">奶形</seg>
               <note type="editorial">楷行混合，第四字候妙。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:10">
+              <quote>其大如□</quote>
+              <seg type="candidate">球</seg>
+              <seg type="candidate">毬</seg>
+              <seg type="candidate">秩</seg>
+              <note type="editorial">右半有分枝交筆，左部讀法仍待原圖判定。</note>
             </ab>
           </div>
         </div>
